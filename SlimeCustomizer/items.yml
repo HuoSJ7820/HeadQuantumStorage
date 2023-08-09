@@ -1,0 +1,376 @@
+TLBLZCC1:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC1
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_1
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC2:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC2
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_2
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC3:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC3
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_3
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC4:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC4
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_4
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC5:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC5
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_5
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC6:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC6
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_6
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC7:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC7
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_7
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+TLBLZCC8:
+  category: tlblzcc
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: TLBLZCC8
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NTW_QUANTUM_STORAGE_8
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: IRON_DUST
+      amount: 1
